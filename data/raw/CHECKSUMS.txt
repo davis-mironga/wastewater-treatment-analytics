@@ -1,0 +1,2 @@
+af2e632b370646ea9763b11aed54b30423f0c3b8a7fb1b7d23e1c922098a7a8a  data/raw/water-treatment.data
+bb932169a9680170fbba91b805e6fd5afd538af805cb29bbfdb3b1c308e962bb  data/raw/water-treatment.names
