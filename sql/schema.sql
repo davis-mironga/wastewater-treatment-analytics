@@ -1,0 +1,1 @@
+-- Database schema: tables for cleaned data and results
