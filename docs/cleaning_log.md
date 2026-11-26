@@ -13,3 +13,4 @@ Raw files in `data/raw/` are never modified.
 | 6 | 2026-11-26 | Raw file is not in date order: 12 backward jumps, all at month starts (13 ascending runs). A sorted copy has 527 rows and no duplicate dates. Original position kept in `file_row`. | 527 | 527 | No |
 | 7 | 2026-11-26 | September 1991 has no records (gap 1991-08-30 to 1991-10-01). Limits time-based analysis. | 527 | 527 | No |
 | 8 | 2026-11-26 | Created `data/processed/water_treatment_clean.csv` with `src/cleaning.py`: named columns, `?` read as missing, dates parsed, rows sorted by date, original position kept in `file_row`. No values imputed or removed. | 527 | 527 | No |
+| 8 | 2026-11-26 | Created `data/processed/water_treatment_clean.csv` with `src/cleaning.py`: named columns, `?` read as missing, dates parsed, rows sorted by date, original position kept in `file_row`. No values imputed or removed. | 527 | 527 | No |
