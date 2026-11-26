@@ -10,3 +10,5 @@ Raw files in `data/raw/` are never modified.
 | 3 | 2026-11-25 | Missing-value counts match the `.names` documentation for all 38 variables. | 527 | 527 | No |
 | 4 | 2026-11-25 | No variable exceeds 12% missing (highest: RD-DBO-P 11.8%). No values imputed or removed. | 527 | 527 | No |
 | 5 | 2026-11-25 | Documentation names the last variable `RD-SED-G` in one place and `RD-SSED-G` in another. We use `RD-SED-G`. | 527 | 527 | No |
+| 6 | 2026-11-26 | Raw file is not in date order: 12 backward jumps, all at month starts (13 ascending runs). A sorted copy has 527 rows and no duplicate dates. Original position kept in `file_row`. | 527 | 527 | No |
+| 7 | 2026-11-26 | September 1991 has no records (gap 1991-08-30 to 1991-10-01). Limits time-based analysis. | 527 | 527 | No |
